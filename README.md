@@ -8,4 +8,4 @@ advanced techniques such as spatial and channel squeeze-and-excitation (scSE) mo
 model has achieved a dice similarity coefficient of 0.855. I've used the SIIM ACR Pneumothorax Segmentation dataset, which is 
 larger and of higher quality, ensuring improved performance and robustness across diverse cases.
 
-![image](https://github.com/user-attachments/assets/932ce00a-5d81-4630-b93d-39f4693c4863)
+
